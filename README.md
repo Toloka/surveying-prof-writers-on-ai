@@ -13,9 +13,9 @@ This repository contains data, analysis, and materials for the paper **"Surveyin
 ## 🗂 Repository Contents
 
 - `data/`: Annonymized survey data
-- `analysis/`: Code and notebooks for data analysis
+- `analysis/`: TBA: Code and notebooks for data analysis 
 - `survey/`: Survey documentation
-- `docs/`: Supplementary materials like slides or posters
+- `docs/`: TBA: Supplementary materials like slides or posters
 
 
 ## 📚 Cite Us
