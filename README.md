@@ -3,7 +3,7 @@
 
 This repository contains data, analysis, and materials for the paper **"Surveying Professional Writers on AI: Limitations, Expectations, and Fears"**. We conduct a questionnaire (```N = 301```) and an interactive survey (```N = 36```) targeting professional writers regularly using AI. We examine LLM-assisted writing practices across 25+ languages, ethical concerns, and user expectations.
 
-* 🗞️ Paper: [https://arxiv.org/abs/2504.05008](arxiv.org/abs/2504.05008)
+* 🗞️ Paper: [arxiv.org/abs/2504.05008](https://arxiv.org/abs/2504.05008)
 
 ## 📊 Project Overview
 
