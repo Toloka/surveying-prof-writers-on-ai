@@ -20,7 +20,17 @@ This repository contains data, analysis, and materials for the paper **"Surveyin
 
 ## 📚 Cite Us
 
-TBD
+```
+@misc{ivanova2025surveyingprofessionalwritersai,
+      title={Surveying Professional Writers on AI: Limitations, Expectations, and Fears}, 
+      author={Anastasiia Ivanova and Natalia Fedorova and Sergey Tilga and Ekaterina Artemova},
+      year={2025},
+      eprint={2504.05008},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.05008}, 
+}
+```
 
 ## 📬 Contact
 
